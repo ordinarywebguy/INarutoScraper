@@ -1,0 +1,19 @@
+INarutoScraper                                                    
+                                                                    
+Download your favorite manga from inaruto.net site instantly.
+                                                                   
+Too busy at work to read your favorite manga? Or just too anxious 
+to get caught by your boss? Or perhaps too excited to read         
+and can't wait for every pages/images to load?                    
+                                                                   
+Now try this!
+
+Requirements
+http://mechanize.rubyforge.org/mechanize/
+http://nokogiri.org/
+
+How to use it!
+- Run: ruby inaruto_scraper.rb  
+- Input your manga and chapter of choice
+- Check script's current directory if creates the manga directory and images on it
+- Enjoy reading!
